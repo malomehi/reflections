@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
    Config files are created. It needs to be done in order to track the git operations in the repository.
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+   Staging area are those files to be commited, not all the files in the working directory need to be in the staging area so we can decide what in the working directory go to the repository.
+
+ 
